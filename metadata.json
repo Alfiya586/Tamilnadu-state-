@@ -1,0 +1,6 @@
+{
+  "name": "TAMIL NADU ONE",
+  "description": "Unified digital citizen platform for Tamil Nadu providing services, district explorer, tourism, student hub, jobs, business directory, emergency response, and citizen grievance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
